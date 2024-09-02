@@ -15,8 +15,9 @@ This project involves the analysis of the Stack Overflow Developer Survey 2024 d
 
 ## 📁 Project Structure
 
-- `notebooks/`: Contains Jupyter notebooks with step-by-step data analysis.
-- `data/`: Includes raw and processed data files.
+- `notebooks`: Jupyter notebooks with step-by-step data analysis(data-loading, data-cleaning, visualization).
+- `stack-overflow-developer-survey-2024/`: Contains StackOver flow survey raw CSV files.
+- `survey_Q&A_and_Inference&Conclusion/`: Contains questions and answer and Inferences & conclusions drawn on the basis of analysis.
 - `images/`: Contains visualizations generated from the analysis.
 - `README.md`: This file, providing an overview of the project.
 
